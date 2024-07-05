@@ -15,7 +15,7 @@ I also configured and encrypted my network settings, encrypted data at rest, and
 
 <h2>Department Used key 🔑 vault, RPO& RTO </h2>
 
-- <b>Hybrid cloud environmen</b> (21H2)
+- <b>Hybrid cloud environmen</b> 
 
 <h2>Program walk-through encrypted my network settings, encrypted data at rest, and intransite:</h2>
 
