@@ -1,6 +1,6 @@
 # Microsoft-Azure-Cloud-solutions-Project
 Building A secure Network Design Infrasturcture Project (Azure, Amazon AWS, Microsoft Azure, Google Cloud Platform GCP)
-<h1>Microsoft-Azure-Cloud-solutions-Project</h1>
+<h1>Microsoft-Azure-Cloud-Solutions-Project</h1>
 
 <h2>Description</h2>
 Project consists of a simple Microsoft Azure that walks the user through configured my Hybrid cloud environment with Microsoft Azure by creating resource groups for three departments, using IAM system as a prerequisite for my Role base access control (RBAC)-principleof least privilege. Establishing a key 🔑 vault for each department, also creating a recovery service backup vaults for my key 🔑 vaults - adding RPO& RTO, and more. 
