@@ -17,7 +17,7 @@ I also configured and encrypted my network settings, encrypted data at rest, and
 
 - <b>Hybrid cloud environmen</b> 
 
-<h2>Program walk-through encrypted my network settings, encrypted data at rest, and intransite:</h2>
+<h2>Project walk-through encrypted my network settings, encrypted data at rest, and intransite:</h2>
 
 <p align="center">
 Launch the utility: <br/>
