@@ -10,14 +10,14 @@ I also configured and encrypted my network settings, encrypted data at rest, and
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>IAM system</b> 
+- <b> Role base access control (RBAC)</b>
 
-<h2>Environments Used </h2>
+<h2>Department Used key 🔑 vault, RPO& RTO </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Hybrid cloud environmen</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Program walk-through encrypted my network settings, encrypted data at rest, and intransite:</h2>
 
 <p align="center">
 Launch the utility: <br/>
