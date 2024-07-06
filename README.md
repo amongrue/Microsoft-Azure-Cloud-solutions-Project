@@ -37,7 +37,7 @@ Microsoft Azure -Hybrid cloud environment: Building Department Access Control (I
 <img src="https://imgur.com/0EmRUqB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+ Microsoft Azure -Hybrid Cloud Environment Building Departments: Adding Role-Based Access Control Administrator:  <br/>
 <img src="https://imgur.com/Tog5kIl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
