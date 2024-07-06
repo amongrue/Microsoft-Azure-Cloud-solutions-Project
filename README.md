@@ -19,7 +19,9 @@ I also configured and encrypted my network settings, encrypted data at rest, and
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Microsoft Azure -Hybrid cloud environment: Building Resources Groups for Departments
+VMs, Network Interface, Low balancer 
+ : <br/>
 <img src="https://imgur.com/TWMo4Oq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
