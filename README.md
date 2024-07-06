@@ -57,7 +57,7 @@ Microsoft Azure -Hybrid Cloud Environment Building Departments:Resources Groups 
  Microsoft Azure -Hybrid Cloud Environment Building Departments: Creating Properties for Backups, Encryption, and Multi-User Authorization:  <br/>
 <img src="https://imgur.com/JDGzhAG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Observe the wiped disk:  <br/>
+ Microsoft Azure -Hybrid Cloud Environment Building Departments: Enabling Policy Remediation:  <br/>
 <img src="https://imgur.com/qDdwuYY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Observe the wiped disk:  <br/>
