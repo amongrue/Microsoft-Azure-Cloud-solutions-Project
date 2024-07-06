@@ -9,7 +9,7 @@ I also configured and encrypted my network settings, encrypted data at rest, and
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+- <b>IAM system</b> 
 - <b>Diskpart</b>
 
 <h2>Environments Used </h2>
