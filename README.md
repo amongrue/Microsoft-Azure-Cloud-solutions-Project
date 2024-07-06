@@ -10,13 +10,19 @@ I also configured and encrypted my network settings, encrypted data at rest, and
 <h2>Languages and Utilities Used</h2>
 
 - <b>IAM system</b> 
-- <b>Diskpart</b>
+- <b>Role base access control (RBAC)-principleof least privilege</b>
+- <b>key 🔑 vault</b>
+- <b>Adding RPO& RTO </b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Microsoft Azure</b> (21H2)
+  - <b>Hybrid Cloud Environment</b> (21H2)
 
 <h2>Program walk-through:</h2>
+<h2>Configured and Encrypte:</h2>
+<h2>Network Settings:</h2>
+<h2>Data at Rest, and Intransite:</h2>
 
 <p align="center">
 Microsoft Azure -Hybrid cloud environment: Building Resources Groups for Departments
