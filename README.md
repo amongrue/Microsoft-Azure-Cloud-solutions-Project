@@ -64,6 +64,10 @@ Observe the wiped disk:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://imgur.com/9bnwnB1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Observe the wiped disk:  <br/>
+<img src="https://imgur.com/X1Il4tp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <!--
  ```diff
