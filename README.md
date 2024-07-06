@@ -76,7 +76,7 @@ Microsoft Azure Adding Owner’s permissions, Contributions, Read and Edit, and 
 Adding Department Read, Write, and other Privileged levels:  <br/>
 <img src="https://imgur.com/urtlmvw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Observe the wiped disk:  <br/>
+ Adding Department Access Service Role JSON/Permission/Actions /Type/Permission/Management:  <br/>
 <img src="https://imgur.com/JslKCOp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Observe the wiped disk:  <br/>
