@@ -45,7 +45,7 @@ Microsoft Azure -Hybrid cloud environment: Building Department Access Control (I
 <img src="https://imgur.com/Uk3fy4q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Microsoft Azure -Hybrid Cloud Environment Building Departments:Resources Groups and key 🔑 vault for each department:  <br/>
 <img src="https://imgur.com/NbyIgbI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Observe the wiped disk:  <br/>
