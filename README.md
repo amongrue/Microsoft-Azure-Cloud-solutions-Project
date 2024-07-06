@@ -33,7 +33,7 @@ Microsoft Azure -Hybrid cloud environment: Building Department Access Control (I
 <img src="https://imgur.com/rpw6RUT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+ Microsoft Azure -Hybrid Cloud Environment Building Departments: Establishing a key 🔑 vault for each department, also creating a recovery service backup vault for my key 🔑 vaults - adding RPO& RTO, and more:  <br/>
 <img src="https://imgur.com/0EmRUqB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
