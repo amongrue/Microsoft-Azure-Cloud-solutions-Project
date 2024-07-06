@@ -85,7 +85,7 @@ Adding Department Read, Write, and other Privileged levels:  <br/>
  Creating and Adding more Properties for Custom Role & Permissions:  <br/>
 <img src="https://imgur.com/uMcFV65.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Observe the wiped disk:  <br/>
+ Building Resources Groups for Departments:  <br/>
 <img src="https://imgur.com/6kkbiwc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
