@@ -40,7 +40,7 @@ Wait for process to complete (may take some time):  <br/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://imgur.com/Uk3fy4q" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Uk3fy4q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
