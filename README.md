@@ -51,7 +51,7 @@ Microsoft Azure -Hybrid Cloud Environment Building Departments:Resources Groups 
  Microsoft Azure -Hybrid Cloud Environment Building Departments: Microsoft Recovery Services Deployment:  <br/>
 <img src="https://imgur.com/D9w8391.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Observe the wiped disk:  <br/>
+ Microsoft Azure -Hybrid Cloud Environment Building Departments: Activity logs, creating 🗝 Vault, and Protection Policy:  <br/>
 <img src="https://imgur.com/WBifSu3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Observe the wiped disk:  <br/>
