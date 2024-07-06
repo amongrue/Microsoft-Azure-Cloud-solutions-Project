@@ -1,5 +1,5 @@
-# Microsoft-Azure-Cloud-solutions-Project
-Building A secure Network Design Infrasturcture Project (Azure, Amazon AWS, Microsoft Azure, Google Cloud Platform GCP)
+# Microsoft-Azure-Cloud-Solutions-Project
+Building A Secure Network Design Infrasturcture Project (Azure, Amazon AWS, Microsoft Azure, Google Cloud Platform GCP)
 <h1>Microsoft-Azure-Cloud-Solutions-Project</h1>
 
 <h2>Description</h2>
