@@ -29,7 +29,7 @@ VMs, Network Interface, Low balancer
 <img src="https://imgur.com/DX9ZhkR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Microsoft Azure -Hybrid cloud environment: Building Department Access Control (IAM): <br/>
 <img src="https://imgur.com/rpw6RUT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
