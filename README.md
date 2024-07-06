@@ -7,25 +7,24 @@ Project consists of a simple Microsoft Azure that walks the user through configu
 I also configured and encrypted my network settings, encrypted data at rest, and intransite. Lastly, I did a presentation, including the shared responsibilities factors for vendors, clients, customers, etc. .
 <br />
 
-
 <h2>Languages and Utilities Used</h2>
 
-- <b>IAM system</b> 
-- <b> Role base access control (RBAC)</b>
+- <b>PowerShell</b> 
+- <b>Diskpart</b>
 
-<h2>Department Used key 🔑 vault, RPO& RTO </h2>
+<h2>Environments Used </h2>
 
-- <b>Hybrid cloud environmen</b> 
+- <b>Windows 10</b> (21H2)
 
-<h2>Project walk-through encrypted my network settings, encrypted data at rest, and intransite:</h2>
+<h2>Program walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="[(https://imgur.com/TWMo4Oq)"/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://imgur.com/TWMo4Oq"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
