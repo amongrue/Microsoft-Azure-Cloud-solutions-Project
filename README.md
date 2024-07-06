@@ -46,6 +46,15 @@ Sanitization complete:  <br/>
 Observe the wiped disk:  <br/>
 <img src="https://imgur.com/Tog5kIl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Observe the wiped disk:  <br/>
+<img src="https://imgur.com/Tog5kIl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Observe the wiped disk:  <br/>
+<img src="https://imgur.com/Tog5kIl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+Observe the wiped disk:  <br/>
+<img src="https://imgur.com/Tog5kIl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <!--
  ```diff
