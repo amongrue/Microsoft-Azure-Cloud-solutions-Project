@@ -69,7 +69,7 @@ Creating Backups and Site Recovery for Business Continuity Plan :  <br/>
  Microsoft Azure Adding Role and Administrator Privileged levels:  <br/>
 <img src="https://imgur.com/X1Il4tp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Observe the wiped disk:  <br/>
+Microsoft Azure Adding Owner’s permissions, Contributions, Read and Edit, and other Administrator Privileged levels:  <br/>
 <img src="https://imgur.com/wdgWgCY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Observe the wiped disk:  <br/>
