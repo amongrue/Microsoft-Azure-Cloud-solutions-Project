@@ -41,7 +41,7 @@ Microsoft Azure -Hybrid cloud environment: Building Department Access Control (I
 <img src="https://imgur.com/Tog5kIl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+ Microsoft Azure -Hybrid Cloud Environment Building Departments: Creating a Custom Role and Adding Permissions:  <br/>
 <img src="https://imgur.com/Uk3fy4q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
