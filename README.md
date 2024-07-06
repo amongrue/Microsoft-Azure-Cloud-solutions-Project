@@ -25,7 +25,7 @@ VMs, Network Interface, Low balancer
 <img src="https://imgur.com/TWMo4Oq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+ Microsoft Azure -Hybrid cloud environment: Building Resources Groups  Accounts with Permissions and enabling MFA:  <br/>
 <img src="https://imgur.com/DX9ZhkR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
